@@ -139,6 +139,6 @@ footer{
 }
 @media screen and (max-width: 320px){
     .good{
-        margin: 0 10px 50px;
+        margin: 0 5px 50px;
     }
 }
