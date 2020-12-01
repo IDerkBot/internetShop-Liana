@@ -129,12 +129,12 @@ footer{
 }
 @media screen and (max-width: 425px){
     .good{
-        margin: 0 60px 50px;
+        margin: 0 30px 50px;
     }
 }
 @media screen and (max-width: 375px){
     .good{
-        margin: 0 35px 50px;
+        margin: 0 20px 50px;
     }
 }
 @media screen and (max-width: 320px){
